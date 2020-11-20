@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/qrbilling-deploy/static/css/main.d23b8678.chunk.css",
+    "main.js": "/qrbilling-deploy/static/js/main.9e71eef3.chunk.js",
+    "main.js.map": "/qrbilling-deploy/static/js/main.9e71eef3.chunk.js.map",
+    "runtime-main.js": "/qrbilling-deploy/static/js/runtime-main.1dd78879.js",
+    "runtime-main.js.map": "/qrbilling-deploy/static/js/runtime-main.1dd78879.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/qrbilling-deploy/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.98bf00b4.chunk.js": "/qrbilling-deploy/static/js/2.98bf00b4.chunk.js",
+    "static/js/2.98bf00b4.chunk.js.map": "/qrbilling-deploy/static/js/2.98bf00b4.chunk.js.map",
+    "index.html": "/qrbilling-deploy/index.html",
+    "precache-manifest.7d86acc79a28489fb85deab266331f9c.js": "/qrbilling-deploy/precache-manifest.7d86acc79a28489fb85deab266331f9c.js",
+    "service-worker.js": "/qrbilling-deploy/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/qrbilling-deploy/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.d23b8678.chunk.css.map": "/qrbilling-deploy/static/css/main.d23b8678.chunk.css.map",
+    "static/js/2.98bf00b4.chunk.js.LICENSE.txt": "/qrbilling-deploy/static/js/2.98bf00b4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1dd78879.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.98bf00b4.chunk.js",
+    "static/css/main.d23b8678.chunk.css",
+    "static/js/main.9e71eef3.chunk.js"
+  ]
+}
