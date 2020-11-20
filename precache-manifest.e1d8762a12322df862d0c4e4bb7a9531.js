@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1c904dfe1a2f82d01c4e2b32f02138e5",
+    "revision": "44ff9db4cb730ab6cc5fce0cf4e460f3",
     "url": "/qrbilling-deploy/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/qrbilling-deploy/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "6696a6c1b170c3443e66",
+    "revision": "726c6a23ac099e91389f",
     "url": "/qrbilling-deploy/static/css/main.d23b8678.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/qrbilling-deploy/static/js/2.98bf00b4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6696a6c1b170c3443e66",
-    "url": "/qrbilling-deploy/static/js/main.4d3b1bd8.chunk.js"
+    "revision": "726c6a23ac099e91389f",
+    "url": "/qrbilling-deploy/static/js/main.01409232.chunk.js"
   },
   {
     "revision": "80b0cc384706001704db",
