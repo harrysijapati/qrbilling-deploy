@@ -14,9 +14,11 @@ const AppRouter = () => (
   <Router history={history}>
     <Navbar>
       <Switch>
-        <Route path="/" exact component={Home} />
+          <Route path="/" exact component={Home} />
+
+          <Route path="/home" exact component={Home} />
         <Route path="/success" exact component={Success} />
-        <Route path="/:id" exact component={ItemDetail} />
+        <Route path="/:id" exact component={Home} />
         <Route path="/:id/billing" exact component={Billing} />
         <Route component={NotFound} />
       </Switch>
